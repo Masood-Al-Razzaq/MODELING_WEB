@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  src: url();
+}
+.marque {
+  display: flex;
+  padding: 0 1.5vw;
+  align-items: center;
+  gap: 3vw;
+  flex-shrink: 0;
+  transform: translateX(-100%);
+}
+
+.marque h1 {
+  text-transform: uppercase;
+  color: white;
+  font-size: 4vw;
+}
+
+.marque img {
+  height: 4vw;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.move {
+  background-color: mediumseagreen;
+  display: flex;
+  padding: 3vw;
+  overflow: hidden;
+}/*# sourceMappingURL=animation.css.map */
